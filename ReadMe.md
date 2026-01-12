@@ -17,6 +17,7 @@ Dimensional (Lookup) Tables:
 - Relationships:
 titles.show_id (1) ➝ many (listed_in.show_id, netflix_cast.show_id, netflix_directors.show_id, netflix_countries.show_id, description.show_id)
 
+
 # Data Transformation (Power Query)
 These transformations ensure accurate visuals and filters. You likely performed the following steps:
 
@@ -34,6 +35,9 @@ Simple and at the same time practical questions the dashboard is able to answer:
 - How can one title be examined in detail?
 
 The report consists of two pages, allowing for both high-level analysis and title-level exploration.
+
+# Architectural Flow (Annotated)
+<img width="360" height="479" alt="SYSTEM FLOW" src="https://github.com/user-attachments/assets/b3838bd5-2f37-4952-8bf6-05dc4c0719f6" />
 
 
 # Report Pages
