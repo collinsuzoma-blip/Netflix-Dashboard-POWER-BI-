@@ -1,9 +1,5 @@
-# Netflix StreamSight: Netflix Analytics Dashboard (Power BI) 
-
-I built an interactive Power BI analytics dashboard that transforms raw Netflix data into actionable insights. Using a clean star schema model and dynamic DAX measures, this solution explores content trends, ratings, genres, and global availability all in a user-driven interface. The Power BI dashboard is a tool for visualizing the content library of Netflix.  
-The main goal of this project is clear insights, clean layout, and storytelling, not the creation of over-designed visuals.
-
-The data needed for the report is incorporated directly into the Power BI file, so there is no need for external connection, the report just opens and works right away.
+# Netflix Content Intelligence Dashboard (POWER BI)
+I built an interactive Power BI project analyzing regional, age-group, and genre patterns across movies vs TV shows. Built interactive dashboards to uncover audience preferences, content distribution, and viewing trends for data-driven content strategy.
 
 # Core Tables
 Dimensional (Lookup) Tables:
@@ -73,10 +69,6 @@ All the relationships are established within Power BI so that filtering and cros
 <img width="743" height="494" alt="MODEL" src="https://github.com/user-attachments/assets/186a6b45-1455-4696-a5a9-346008b7eed8" />
 
 
-# Skills Demonstrated
-
-- Power BI report development
-- Data modeling with multiple related tables
 
 
 Programmer Anasieze Uzoma
