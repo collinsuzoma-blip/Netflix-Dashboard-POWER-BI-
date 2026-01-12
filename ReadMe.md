@@ -1,4 +1,4 @@
-# Netflix Content Intelligence Dashboard (POWER BI)
+# Global Netflix Intelligence: Performance & Demographics Dashboard
 I built an interactive Power BI project analyzing regional, age-group, and genre patterns across movies vs TV shows. Built interactive dashboards to uncover audience preferences, content distribution, and viewing trends for data-driven content strategy.
 
 # Core Tables
