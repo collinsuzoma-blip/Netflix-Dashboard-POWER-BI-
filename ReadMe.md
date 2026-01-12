@@ -25,7 +25,7 @@ The page is designed for quick insights and executive-style review. The catalog 
 - Category and genre breakdown
 - Geographic distribution of titles by country
 
-"C:\Users\user\OneDrive\Desktop\IT\SQL PROJECT\POWER BI\OVERVIEW.png"
+<img width="887" height="498" alt="OVERVIEW" src="https://github.com/user-attachments/assets/2ac10458-2196-4b27-8414-51ca32cae1b0" />
 
 # 2. Single Title View
 This view exemplifies drill-down analysis and interactive reporting. The user can take a deeper dive into the content through this page:
@@ -33,7 +33,7 @@ This view exemplifies drill-down analysis and interactive reporting. The user ca
 - Detailed metadata (type, rating, year added) can be viewed
 - Country-level availability and supporting visuals can be seen
 
-"C:\Users\user\OneDrive\Desktop\IT\SQL PROJECT\POWER BI\SINGLE TITLE VIEW.png"
+<img width="883" height="495" alt="SINGLE TITLE VIEW" src="https://github.com/user-attachments/assets/809fc200-bd4a-4954-89fe-51964a8382a0" />
 
 # Data Structure
 All the relationships are established within Power BI so that filtering and cross-highlighting can take place. The Power BI model is composed of multiple tables that are related to each other and thus representing a realistic catalog-style dataset:
@@ -45,7 +45,7 @@ All the relationships are established within Power BI so that filtering and cros
 - Cast
 - Descriptions
 
-"C:\Users\user\OneDrive\Desktop\IT\SQL PROJECT\POWER BI\MODEL.png"
+<img width="743" height="494" alt="MODEL" src="https://github.com/user-attachments/assets/186a6b45-1455-4696-a5a9-346008b7eed8" />
 
 
 # Skills Demonstrated
